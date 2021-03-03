@@ -1,0 +1,23 @@
+#wrapper {
+  width: 200px;
+  height: 280px;
+  border: 2px solid black;
+}
+
+form {
+  display: block;
+}
+
+p {
+  display: block;
+  margin-left: 5px;
+  width: 100px;
+}
+
+button {
+  margin: 10px;
+}
+
+input {
+  margin-left: 10px;
+}
