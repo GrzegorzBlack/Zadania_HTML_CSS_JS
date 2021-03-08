@@ -1,3 +1,9 @@
+// Given an array of integers,find the pair of adjacent elemetns that had the largest product and return product
+
+
+
+
+
 function adjacentElementsProduct(nums) {
   //  write code here.
 
