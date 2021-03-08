@@ -1,4 +1,5 @@
 // javascript
+// https://scrimba.com/learn/adventcalendar/-javascript-challenge-carousel-c9r874s3
 
 const leftBtn = document.querySelector(".previous");
 const rightBtn = document.querySelector(".next");
