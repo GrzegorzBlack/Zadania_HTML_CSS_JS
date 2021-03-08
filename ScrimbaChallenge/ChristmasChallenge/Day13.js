@@ -1,3 +1,6 @@
+// Given an array of integers, remove each kth element from it
+
+
 function extractEachKth(nums, index) {
   let filtered = nums.filter((item, x) => !(x % 3 == 3 - 1));
 
