@@ -88,7 +88,7 @@ solveButton.addEventListener("click", function () {
     return "Coś nie działa";
   }
 
-  // Write your code here 👇
+ 
 });
 
 resetBtn.addEventListener("click", function () {
