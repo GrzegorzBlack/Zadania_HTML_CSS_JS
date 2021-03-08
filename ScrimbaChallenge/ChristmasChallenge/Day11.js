@@ -1,3 +1,7 @@
+// https://scrimba.com/learn/adventcalendar/-javascript-challenge-avoid-obstacles-introduction-crGrJPTm
+
+
+
 function avoidObstacles(nums) {
   //  write code here.
 
